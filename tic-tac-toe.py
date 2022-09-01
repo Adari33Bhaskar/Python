@@ -1,4 +1,6 @@
+/*tic tac toe game
 import os
+
 import time
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " ", " "]
