@@ -1,3 +1,4 @@
+"gcd function"
 """
 although there is function to find gcd in python but this is the code which
 takes two inputs and prints gcd of the two.
